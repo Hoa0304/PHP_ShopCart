@@ -1,7 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
---
 -- Máy chủ: 127.0.0.1:3306
 -- Phiên bản máy phục vụ: 8.0.15
 -- Phiên bản PHP: 7.2.10
