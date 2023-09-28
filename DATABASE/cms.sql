@@ -3,7 +3,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- Máy chủ: 127.0.0.1:3306
--- Thời gian đã tạo: Th12 08, 2019 lúc 12:46 PM
 -- Phiên bản máy phục vụ: 8.0.15
 -- Phiên bản PHP: 7.2.10
 
